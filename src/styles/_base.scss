@@ -1,0 +1,8 @@
+@import "_vars.scss";
+
+// Base should style only the html and body of the website
+
+body {
+  background-color: $background-color;
+  color:white;
+}
